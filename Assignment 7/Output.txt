@@ -1,0 +1,13 @@
+Total time for writing  2-bytes files : 1001 usec.
+Total time for writing  16-bytes files : 0 usec.
+Total time for writing  128-bytes files : 1000 usec.
+Total time for writing  1024-bytes files : 0 usec.
+Total time for writing  8192-bytes files : 1000 usec.
+Total time for writing  65536-bytes files : 0 usec.
+
+Total time for writing 2-bytes files : 986 usec.
+Total time for writing 16-bytes files : 1015 usec.
+Total time for writing 128-bytes files : 988 usec.
+Total time for writing 1024-bytes files : 0 usec.
+Total time for writing 8192-bytes files : 999 usec.
+Total time for writing 65536-bytes files : 1007 usec.
